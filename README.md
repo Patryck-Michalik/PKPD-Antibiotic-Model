@@ -19,7 +19,7 @@ For a full description of the model framework, equations, assumptions, and simul
 
 - 📄 [Read full model description (GitHub)](docs/model_description.md)  
 
-- ⬇️ [Download formatted report (PDF)](docs/PKPD_Model_Report.pdf)
+- ⬇️ [Download formatted report (PDF)](docs/model_description.pdf)
 
 ---
 
