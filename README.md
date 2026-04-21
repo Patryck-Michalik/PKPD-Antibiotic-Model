@@ -1,22 +1,12 @@
 # PK/PD Antibiotic Modeling Project
 
-This project explores antibiotic treatment dynamics using a mechanistic PK/PD model.
-
 ## Overview
 
-- One-compartment pharmacokinetic model with repeated dosing
+This project explores antibiotic treatment dynamics using a mechanistic PK/PD model.
 
-- Logistic bacterial growth with Emax pharmacodynamic killing
+A full description of the model, assumptions, and simulation design is available here:
 
-- Parameter sweeps across:
-
-  - Dose and dosing interval
-
-  - EC50 (drug potency)
-
-  - Bacterial growth rate
-
-  - Initial bacterial burden
+➡️ [Model Description](docs/model_description.md)
 
 ## Outputs
 
