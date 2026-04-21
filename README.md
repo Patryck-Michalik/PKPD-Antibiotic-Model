@@ -64,13 +64,9 @@ The model generates:
 
 ---
 
-## Repository Structure
+## Quick Start
 
-```text
-PKPD-Antibiotic-Model/
-├── README.md
-├── docs/
-│   └── model_description.md
-├── src/
-├── figures/
-└── outputs/
+To get started working with this project quickly:
+
+- 📄 [Get Started (GitHub)](docs/model_description.md)  
+
