@@ -84,51 +84,21 @@ This notebook demonstrates how to:
 
 ---
 
-## Using the Model in Your Own Code
+## Example Notebook
 
-Core model functionality is defined in:
+The example notebook demonstrates:
 
-```text
+- running baseline PK/PD simulations  
 
-src/pkpd_model.py
+- visualizing drug concentration and bacterial burden  
 
-```
+- computing log reduction  
 
-To use it in your own notebook:
+- performing dose-response analyses  
 
-```python
+- summarizing PK/PD metrics  
 
-import sys
-
-import os
-
-# Allow Python to find the src folder
-
-sys.path.append(os.path.abspath(".."))
-
-from src.pkpd_model import (
-
-    create_params,
-
-    create_sim_settings,
-
-    run_simulation,
-
-    run_param_sweep,
-
-    run_sim_setting_sweep,
-
-)
-
-# Example usage
-
-params = create_params()
-
-sim_settings = create_sim_settings()
-
-t, C, B = run_simulation(params=params, sim_settings=sim_settings)
-
-```
+This serves as the primary entry point for interacting with the model.
 
 ---
 
