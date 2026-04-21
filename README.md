@@ -68,5 +68,5 @@ The model generates:
 
 To get started working with this project quickly:
 
-- 📄 [Get Started (GitHub)](docs/model_description.md)  
+- 📄 [Get Started (GitHub)](docs/getting_started.md)  
 
