@@ -17,7 +17,9 @@ influence bacterial response and treatment outcomes.
 
 For a full description of the model framework, equations, assumptions, and simulation design, see:
 
-➡️ [Full Model Description](docs/model_description.md)
+- 📄 [Read full model description (GitHub)](docs/model_description.md)  
+
+- ⬇️ [Download formatted report (PDF)](docs/PKPD_Model_Report.pdf)
 
 ---
 
