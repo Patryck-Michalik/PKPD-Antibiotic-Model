@@ -58,38 +58,6 @@ This project is structured around three key questions:
 
 ---
 
-## Model Summary
-
-The model combines:
-
-- One-compartment pharmacokinetics with first-order elimination  
-- Logistic bacterial growth  
-- Emax concentration-dependent killing  
-
-This simplified framework is designed to isolate key drivers of treatment response while maintaining biological interpretability.
-
----
-
-
-
-## Example Notebook
-
-The example notebook demonstrates:
-
-- running baseline PK/PD simulations  
-
-- visualizing drug concentration and bacterial burden  
-
-- computing log reduction  
-
-- performing dose-response analyses  
-
-- summarizing PK/PD metrics  
-
-This serves as the primary entry point for interacting with the model.
-
----
-
 ## Example Output
 
 Below is an example of model output showing PK profiles and corresponding bacterial response:
